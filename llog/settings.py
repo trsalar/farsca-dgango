@@ -134,5 +134,5 @@ LOGIN_URL = 'users:login'
 
 #Heroku Settings
 import django_heroku
-django-admin.settings(locals())
+django_heroku.settings(locals())
 
