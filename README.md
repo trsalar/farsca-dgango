@@ -1,1 +1,1 @@
-"# farsca-dgango" 
+"# farsca-go" 
